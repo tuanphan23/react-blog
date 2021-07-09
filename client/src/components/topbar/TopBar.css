@@ -18,6 +18,10 @@
   justify-content: center;
 }
 
+.topCenter {
+  flex: 6;
+}
+
 .topIcon {
   font-size: 20px;
   margin-right: 10px;
@@ -30,10 +34,7 @@
   height: 40px;
   border-radius: 50%;
   object-fit: cover;
-}
-
-.topCenter {
-  flex: 6;
+  cursor: pointer;
 }
 
 .topList {
